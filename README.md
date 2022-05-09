@@ -10,6 +10,9 @@ License
 Deploy the website and navigate through the website.
 
 ## Usage
+The website can be deployed by clicking on the following link:
+https://gladi023.github.io/PassswordGenerator/
+
 After deploying the website the user can check on thir password criteria by clicking on the checkboxes as shown below:
 ![Screenshot of the website](assets/images/Screen%20Shot%202022-05-08%20at%2011.34.30%20PM.png)
 
